@@ -1,0 +1,48 @@
+body{
+    background-color: floralwhite;
+    color: #333;
+    
+    
+}
+#title{  
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    background-image: linear-gradient(to right, blue , cadetblue);
+    padding: 70px;
+    margin: -10px;
+    padding-bottom: 100px;
+}
+h2{
+    text-align: center; 
+    font-size: 30px;
+}
+
+#main{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+p{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+
+div{
+    padding: 3px;
+}
+
+.left,
+.middle,
+.right {
+  padding: 10px;
+  height: 300px; 
+}
+
+.left {
+  grid-area: left;
+  font-size: 20px;
+}
+
+
